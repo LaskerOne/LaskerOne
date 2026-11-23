@@ -17,6 +17,14 @@ Claude Code in development teams.
   couples: budget, debts, goals, credit and net worth, synced live between two
   people. React + TypeScript + Supabase with row-level security, 100+ tests on the
   financial engine and a CI gate on `main`.
+- **[auditor-repo](https://github.com/LaskerOne/auditor-repo)** — Claude Code plugin
+  that audits a repository with parallel subagents plus an independent verifier
+  that filters false positives. Report in Spanish with a score, evidence and an
+  action plan. Experimental.
+- **[patrones-diseno](https://github.com/LaskerOne/patrones-diseno)** — Claude Code
+  plugin that recommends GoF design patterns only where the code shows a concrete
+  pain, with a judge agent whose job is to argue against over-engineering.
+  Experimental.
 
 #### Stack
 
